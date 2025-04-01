@@ -33,7 +33,7 @@ To deploy the contract:
 3. Check balance: Use getBalance() to view your current balance in the vault.
 
 ## Contact Information
-Contract Address: (To be updated after deployment)
+Contract Address: 0x45332d9d75220D3004D9dE913AD5F6ca074ba343
 
 For any inquiries or support, please reach out via email or social media.
 
